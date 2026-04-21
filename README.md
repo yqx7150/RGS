@@ -1,2 +1,2 @@
 # RGS
-R-GS: Spectral-Residual Gaussian Splatting for Ultra Sparse-View CBCT Reconstruction
+Residual Gaussian Splatting for Ultra Sparse-View CBCT Reconstruction
